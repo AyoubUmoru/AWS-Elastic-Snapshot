@@ -1,6 +1,6 @@
 # README
 
-Stand-alone project for manual AWS Elasitc Search Snapshot and restore
+Stand-alone project for manual AWS Elasitcsearch Snapshot and restore
 Tested with AWS ES 6.3-7.1
 
 ## Prerequisite 
