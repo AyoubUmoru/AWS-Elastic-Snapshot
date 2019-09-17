@@ -1,0 +1,7 @@
+.project
+.settings
+*.creds
+*.zip
+.DS_Store
+*.out
+*.key
