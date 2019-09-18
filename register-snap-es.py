@@ -14,6 +14,7 @@ creds = get_credentials(Session())
 
 awsauth = AWS4Auth(creds.access_key, creds.secret_key, region, service)
 
+# essnapshot is like an alias, you can choose any name (ES >7.x API does not like - in the name)
 path = '_snapshot/essnapshot'
 url = host + path
 
