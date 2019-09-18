@@ -36,6 +36,6 @@ curl -XPOST 'https://vpc-YOURCLUSTER.us-east-1.es.amazonaws.com/_snapshot/essnap
 
 ## Ressources
 
-* Ressources abut upgrading ES -> [Link](https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-version-migration.html)
+* Ressources about upgrading ES -> [Link](https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-version-migration.html)
 
 * Ressources about ES snapshot API-> [Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html)
