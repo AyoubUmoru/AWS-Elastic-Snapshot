@@ -1,12 +1,12 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'AWS Infrastructure Code for provisioning ressources to for manual ES snapshots'
+Description: 'AWS Infrastructure Code for provisioning ressources for manual ES snapshot support'
 
 Parameters:
   Product:
     Type: String
     Description: Name of product
     MinLength: '1'
-    MaxLength: '20'
+    MaxLength: '25'
   Environment:
     Type: String
     Description: Environment short sign
